@@ -1,4 +1,3 @@
 #!/bin/bash
-./6-firstdirectory
 cd tmp
-mv betty ./my_first_directory
+rm betty ./my_first_directory
