@@ -1,0 +1,4 @@
+#!/bin/bash
+./6-firstdirectory
+cd tmp
+rm betty my_first_directory
