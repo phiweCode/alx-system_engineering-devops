@@ -1,3 +1,2 @@
 #!/bin/bash
-su
-chown betty
+su chown betty
