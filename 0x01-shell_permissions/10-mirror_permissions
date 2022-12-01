@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo --reference=alleh hello
+sudo --reference=olleh hello
